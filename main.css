@@ -1,0 +1,18 @@
+body {
+    background: #121212;
+    color: #FFFFFF;
+}
+
+.logo { font-weight: 900; }
+
+.example {
+    max-width: 300px;
+}
+
+.hero-qa {
+    max-width: 300px;
+}
+
+.hero-qa li:hover {
+    height: auto;
+}
